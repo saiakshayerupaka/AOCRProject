@@ -1,3 +1,7 @@
 Madam I have entered the wrong link in the spreadsheet 
 
-please open the link.html file in the repository
+https://github.com/deep933/frenchapp 
+
+is the correct link madam
+
+it is there in the link.txt file
